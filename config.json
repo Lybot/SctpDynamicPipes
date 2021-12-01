@@ -1,0 +1,13 @@
+{
+    "dhcp_count_jumps": 3,
+    "servers":
+    [
+        {
+            "input_server_port": 22,
+            "input_client_port": 5000,
+            "output_server_port": 5000,
+            "dns_name": "rofler",
+            "type_socket": "tcp"
+        }
+    ]
+}
